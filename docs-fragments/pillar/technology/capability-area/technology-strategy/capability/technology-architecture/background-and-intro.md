@@ -1,5 +1,7 @@
 # Background & Intro
 
+Knowledge Graph in General and Enterprise Knowledge Graph in particular are built to reply to a set of competencies questions. Thus, once they are built, software modules are built up to them for a variety of purpose such as search, question answering, recommendation, etc. There are many ways to organize EKG and software modules around him: monolitic architecture, service oriented architecture and microservice architecture. These architectures are used to describe how different software components developed to describe competencies questions collaborate with the EKG. Thus, different types of architectures should be considered: at the physical level, we have the physical architecture, consisting of the devices which is used to query the KG. At the logical level, we have different technologies that are used to deploy the KG, that are used to developed the software components and on which the different software component runs. For instance, if the KG can be queried from a mobile phone, different operating systems for mobile phones should be considered.
+
 ## Monolitic architectures
 Description of architectures in which all the modules are tights together to form the application
 
