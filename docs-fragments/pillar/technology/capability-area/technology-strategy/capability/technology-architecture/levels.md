@@ -20,7 +20,7 @@ The feedback of the first users allowed us to have an improved version of the ap
 The application is used, the use cases identify, the development approach is review (for instance, the DevOps approach can be considered) and the architecture is also review. For instance, some modules of the application can be most demanded compared to others and need to be scale up. More services can be identified and need to be developed using different programming languages.
 
 
-
+GraphQL, SPARQL, JsonLD API
 
 !!! warn
 
